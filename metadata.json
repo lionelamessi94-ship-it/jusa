@@ -1,0 +1,6 @@
+{
+  "name": "PaintRooms",
+  "description": "Collaborative real-time drawing rooms with custom brushes, color palettes, and local network peer-to-peer sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
